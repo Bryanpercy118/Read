@@ -2,7 +2,7 @@
 - 👀 Soy un apasionado por la tecnología y el trabajo colaborativo en las organizaciones.
 - 🌱 Soy técnico de sistemas, Developer Backend y Community Manager estudiante de ingeniería de sistemas en: https://www.unicesar.edu.co/index.php/es/
 - 💻 Desarrollador Web en Laravel 
-- Manejo de php artisan, composer, css, html, Tailwind, Vue, Node
+- Manejo de php artisan, composer, css, html, Tailwind, Vue, Node,sql server, oracle database 18c, scrum
 
 
 # Hablemos de negocios
